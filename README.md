@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Javascript and Java**
+- 🌱 I’m currently learning **Swift, Java and Javascript**
 
 - 📫 How to reach me **rafael.holland@bandtec.com.br**
 
