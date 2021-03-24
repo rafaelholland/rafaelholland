@@ -1,5 +1,6 @@
 
-Hi there!
+Hi there! I'm Rafael a passionate dev from Brazil, I'm student at BandTec Digital School and currently learning JavaScript and React for web development
+and Swift for mobile development! 
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
