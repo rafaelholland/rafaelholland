@@ -16,15 +16,6 @@ const rafael = {
     }
 };
 ```
-
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=rafaelholland&hide=contribs,prs&count_private=true&show_icons=true)
-
-<a href="https://github.com/rafaelholland">
-  <img src="https://img.shields.io/github/followers/rafaelholland">
-</a>
-
-
-
 ---
 
 ⭐️
