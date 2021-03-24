@@ -1,5 +1,5 @@
 
-Hi there! I'm Rafael a passionate dev from Brazil, I'm student at BandTec Digital School!
+Hi there! I'm Rafael a passionate dev from Brazil, I'm student at BandTec Digital School! <br>
 I'm currently learning Swift for mobile development, and for web development React and Javascript.
 
 You can reach me on linkedin:
