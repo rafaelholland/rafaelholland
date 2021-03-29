@@ -13,11 +13,10 @@ You can reach me on linkedin:
 const rafael = {
     askMeAbout: ["web dev", "mobile", "tech", "game development","3D Animation"],
     technologies: {
-        mobile: ["Swift"],
+        backEnd: ["Java"],
         web: {
             ["React", "Js"]
         },
-        backEnd: ["Java"],
         databases: ["MySql"],
     }
 };
