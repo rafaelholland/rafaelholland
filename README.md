@@ -1,6 +1,6 @@
 
 Hi there! I'm Rafael a passionate dev from Brazil, I'm student at BandTec Digital School! <br>
-I'm currently learning Swift for mobile development, and for web development React and Javascript.
+I'm currently learning Java for back-end, and for mobile development Swift and Kotlin.
 
 You can reach me on linkedin:
 
@@ -14,6 +14,7 @@ const rafael = {
     askMeAbout: ["web dev", "mobile", "tech", "game development","3D Animation"],
     technologies: {
         backEnd: ["Java"],
+        mobile: ["Kotlin", "Swift"],
         web: {
             ["React", "Js"]
         },
