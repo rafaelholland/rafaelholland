@@ -1,6 +1,6 @@
 
 Hi there! I'm Rafael a passionate dev from Brazil, I'm student at BandTec Digital School! <br>
-I'm currently learning Java for back-end, and for mobile development Swift and Kotlin.
+I'm currently learning Java for back-end, and React for front-end.
 
 You can reach me on linkedin:
 
