@@ -14,7 +14,6 @@ const rafael = {
     askMeAbout: ["web dev", "mobile", "tech", "game development","3D Animation"],
     technologies: {
         backEnd: ["Java"],
-        mobile: ["Kotlin", "Swift"],
         web: {
             ["React", "Js"]
         },
