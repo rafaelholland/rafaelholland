@@ -17,7 +17,7 @@ const rafael = {
         web: {
             ["React", "Js"]
         },
-        databases: ["MySql"],
+        databases: ["MySql", "PostgreSQL"],
     }
 };
 ```
