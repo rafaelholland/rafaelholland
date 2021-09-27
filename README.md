@@ -13,7 +13,7 @@ You can reach me on linkedin:
 const rafael = {
     askMeAbout: ["web dev", "mobile", "tech", "game development","3D Animation"],
     technologies: {
-        backEnd: ["Java", "Python"],
+        backEnd: ["Python", "Java"],
         web: {
             ["React", "Js", "Flask"]
         },
