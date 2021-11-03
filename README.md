@@ -1,26 +1,31 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Hi there! I'm Rafael a passionate dev from Brazil, I'm student at BandTec Digital School! <br>
-I'm currently learning Python and Java for back-end, and React for front-end.
+<p align="left"> 
+  Hi everyone, my name is Rafael Holland, I'm IT student at Bandtec Digital School.<br>
+  I'm currently studiyng <strong>Python, Java and SQL</strong>, and AWS for cloud, to change my career to become a Data Engineer.<br>
+  Nowadays i'm front-end intern working with React and Javascript.
+</p>
 
-You can reach me on linkedin:
+<p align="left">
+  🦄 Programming languages: <strong>Java, Python, Javascript and SQL for databases</strong>
+</p>
 
+<p align="left">
+  💼 Tools: <strong>Github, Github Actions</strong>
+</p>
 
-<a href="https://www.linkedin.com/in/rafaelholland/" target="_blank"><img src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-Dark.png" width="50"></a>
+<p align="left">
+  💌 This is where you can reach me: ⤵️
+</p>
 
- <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<p align="left">
+  <a href="mailto:name@email.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelholland9@gmail.com" /></a>
 
-```javascript
-const rafael = {
-    askMeAbout: ["web dev", "mobile", "tech", "game development","3D Animation"],
-    technologies: {
-        backEnd: ["Python", "Java"],
-        web: {
-            ["React", "Js", "Flask"]
-        },
-        databases: ["MySql", "PostgreSQL"],
-    }
-};
-```
----
+  <a href="https://www.linkedin.com/in/rafaelholland/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelholland/" /></a>
+
+</p>  
+
 
 ⭐️
