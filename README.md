@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi everyone, my name is Rafael Holland, I'm IT student at Bandtec Digital School.<br>
-  I'm currently studiyng <strong>Python, Java and SQL</strong>, and AWS for cloud, to change my career to become a Data Engineer.<br>
-  Nowadays i'm front-end intern working with <strong>React and Javascript</strong>.
+  Hi everyone, my name is Rafael Holland, I'm an IT student at Bandtec Digital School.<br>
+  I'm currently studiyng <strong>Python, Java and SQL</strong>, and AWS for cloud, in order to change my career to become a Data Engineer.<br>
+  Nowadays I'm an front-end intern working with <strong>React and Javascript</strong>.
 </p>
 
 <p align="left">
