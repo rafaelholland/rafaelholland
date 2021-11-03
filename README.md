@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Programming languages: <strong>Java, Python, Javascript and SQL for databases</strong>
+  🦄 Programming languages: <strong>Java, Python, Javascript, SQL</strong>
 </p>
 
 <p align="left">
