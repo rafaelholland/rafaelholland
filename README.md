@@ -3,7 +3,7 @@
 <p align="left"> 
   Hi everyone, my name is Rafael Holland, I'm IT student at Bandtec Digital School.<br>
   I'm currently studiyng <strong>Python, Java and SQL</strong>, and AWS for cloud, to change my career to become a Data Engineer.<br>
-  Nowadays i'm front-end intern working with React and Javascript.
+  Nowadays i'm front-end intern working with <strong>React and Javascript</strong>.
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:name@email.com" target="_blank" alt="Gmail">
+  <a href="mailto:name@email.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelholland9@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/rafaelholland/" target="_blank" alt="Linkedin">
