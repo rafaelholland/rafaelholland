@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Github, Github Actions</strong>
+  💼 Tools: <strong>Kafka, Jenkins, Github, Github Actions</strong>
 </p>
 
 <p align="left">
