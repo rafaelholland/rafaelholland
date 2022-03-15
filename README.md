@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hi everyone, my name is Rafael Holland, I'm an IT student at Bandtec Digital School.<br>
-  I'm currently studiyng <strong>Java, Python, C++ and SQL</strong>, and AWS for cloud.<br>
+  I'm currently studiyng <strong>Java, Python, C++, SQL</strong>, and AWS for cloud.<br>
   Nowadays I'm a back-end engineer at EY, working with <strong>Java</strong>.
 </p>
 
